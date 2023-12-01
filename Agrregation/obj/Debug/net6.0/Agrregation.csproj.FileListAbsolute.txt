@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\c\Agrregation\bin\Debug\net6.0\Agrregation.exe
+C:\Users\HP\Documents\c\Agrregation\bin\Debug\net6.0\Agrregation.deps.json
+C:\Users\HP\Documents\c\Agrregation\bin\Debug\net6.0\Agrregation.runtimeconfig.json
+C:\Users\HP\Documents\c\Agrregation\bin\Debug\net6.0\Agrregation.dll
+C:\Users\HP\Documents\c\Agrregation\bin\Debug\net6.0\Agrregation.pdb
+C:\Users\HP\Documents\c\Agrregation\obj\Debug\net6.0\Agrregation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\c\Agrregation\obj\Debug\net6.0\Agrregation.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\c\Agrregation\obj\Debug\net6.0\Agrregation.AssemblyInfo.cs
+C:\Users\HP\Documents\c\Agrregation\obj\Debug\net6.0\Agrregation.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\c\Agrregation\obj\Debug\net6.0\Agrregation.dll
+C:\Users\HP\Documents\c\Agrregation\obj\Debug\net6.0\refint\Agrregation.dll
+C:\Users\HP\Documents\c\Agrregation\obj\Debug\net6.0\Agrregation.pdb
+C:\Users\HP\Documents\c\Agrregation\obj\Debug\net6.0\Agrregation.genruntimeconfig.cache
+C:\Users\HP\Documents\c\Agrregation\obj\Debug\net6.0\ref\Agrregation.dll
